@@ -1,14 +1,19 @@
 # K F & D Drink Shop
 
-Wholesale stock and sales software for Windows.
-
-## Direct download
+## Download
 
 https://github.com/khaleedfx/kfd-drink-shop/archive/refs/heads/main.zip
 
-Extract the folder. Double-click **Start-Shop.bat**. First run downloads Python automatically (keep internet on for that one time).
+## Run on the computer
 
-Admin: `admin` / `admin123`  
-Cashier: `cashier` / `cashier123`
+1. Extract the zip. Do not run from inside the zip.
+2. Open the folder **kfd-drink-shop-main**.
+3. Double-click **Start-Shop.bat**.
+4. If Windows says it protected your PC, click **More info** then **Run anyway**.
+5. Leave the black window open. The shop opens in the browser.
+6. If the browser does not open, go to http://127.0.0.1:8080
 
-Phones on the same Wi-Fi: use the address on the sign-in screen.
+First run needs internet (it fetches Python once).
+
+Admin: admin / admin123
+Cashier: cashier / cashier123
